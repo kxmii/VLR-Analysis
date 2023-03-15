@@ -7,4 +7,11 @@ Scraping data from vlr.gg to analyze recent kickoff tournament in Sao Paulo, Bra
 - VLR Project.sql: contains some SQL queries on the players/teams
 
 ## Simple Visualizations
+### Best Aimers
 ![](https://github.com/kxmii/VLR-Webscraping-Project/blob/main/teamplayeracc.gif)
+
+### Average Combat Score
+![]()
+
+### Agent Usage
+![]()
