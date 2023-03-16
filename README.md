@@ -12,6 +12,7 @@ Scraping data from vlr.gg to analyze recent kickoff tournament in Sao Paulo, Bra
 
 ### Average Combat Score
 ![](https://github.com/kxmii/VLR-Webscraping-Project/blob/main/selectiveacs.gif)
+![](https://github.com/kxmii/VLR-Webscraping-Project/blob/main/histoacs.gif)
 
 ### Agent Usage
 ![]()
