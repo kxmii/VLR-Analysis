@@ -12,6 +12,7 @@ Scraping data from vlr.gg to analyze recent kickoff tournament in Sao Paulo, Bra
 
 ### Average Combat Score
 ![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/individualacs.gif)
+
 Plotting a histogram of player ACS reveals a roughly normal distribution. 
 ![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/histogramacs.gif)
 
