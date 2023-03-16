@@ -18,6 +18,9 @@ Visualizing a select group of players ACS.
 Plotting a histogram of every player's ACS reveals a somewhat normal distribution with an average of 192 and standard deviation of 37. There are no players more than 2.5 standard deviations from the mean, and thus no clear outliers.
 ![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/histogramacs.gif)
 
+### Map Pickrate
+![]()
+
 ### Agent Usage
 ![]()
 To be completed
