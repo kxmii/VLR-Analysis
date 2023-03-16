@@ -1,4 +1,4 @@
-# VLR-Webscraping-Project
+# Valorant Sao Paulo LAN Analysis Project
 Scraping data from vlr.gg to analyze recent kickoff tournament in Sao Paulo, Brazil.
 
 ## Files
