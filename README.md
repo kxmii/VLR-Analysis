@@ -13,7 +13,7 @@ Scraping data from vlr.gg to analyze recent kickoff tournament in Sao Paulo, Bra
 ### Average Combat Score
 ![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/individualacs.gif)
 
-Plotting a histogram of player ACS reveals a somewhat normal distribution with an average ACS of 192 and standard deviation of 37. 
+Plotting a histogram of player ACS reveals a somewhat normal distribution with an average ACS of 192 and standard deviation of 37.
 ![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/histogramacs.gif)
 
 ### Agent Usage
