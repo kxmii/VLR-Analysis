@@ -4,7 +4,7 @@ Scraping data from vlr.gg to analyze recent kickoff tournament in Sao Paulo, Bra
 ## Files
 - vlr.py: used to scrape vlr.gg
 - players.csv and agents.csv: contains data scraped
-- VLR Project.sql: contains some SQL queries on the players/teams
+- VLR Project.sql: contains SQL queries on the players/teams
 
 ## Simple Visualizations
 ### Best Aim
