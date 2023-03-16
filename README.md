@@ -8,7 +8,7 @@ Scraping data from vlr.gg to analyze recent kickoff tournament in Sao Paulo, Bra
 
 ## Simple Visualizations
 ### Best Aim
-The top 4 HS% among players, and top 4 average HS% among teams.
+The top 4 players by HS%, and top 4 teams by average HS%.
 ![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/hspercent.gif)
 
 ### Average Combat Score
