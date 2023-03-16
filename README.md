@@ -8,9 +8,9 @@ Scraping data from vlr.gg to analyze recent kickoff tournament in Sao Paulo, Bra
 
 ## Basic Visualizations
 ### Maps/Agents
-![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/mappick.gif)
-
 ![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/agents.gif)
+
+![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/mappick.gif)
 
 ### Best Aim
 The top 4 players by HS%, and top 4 teams by average HS%.
