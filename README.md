@@ -19,7 +19,7 @@ Plotting a histogram of every player's ACS reveals a somewhat normal distributio
 ![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/histogramacs.gif)
 
 ### Map Pickrate
-![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/maps.gif)
+![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/mappick.gif)
 
 ### Agent Usage
 ![]()
