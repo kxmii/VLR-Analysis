@@ -8,9 +8,11 @@ Scraping data from vlr.gg to analyze recent kickoff tournament in Sao Paulo, Bra
 
 ## Simple Visualizations
 ### Best Aim
+The top 4 HS% among players, and top 4 average HS% among teams.
 ![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/hspercent.gif)
 
 ### Average Combat Score
+Visualizing a select group of players ACS.
 ![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/individualacs.gif)
 
 Plotting a histogram of every player's ACS reveals a somewhat normal distribution with an average of 192 and standard deviation of 37. There are no players more than 2.5 standard deviations from the mean (100-284) and thus no clear outliers.
