@@ -8,11 +8,11 @@ Scraping data from vlr.gg to analyze recent kickoff tournament in Sao Paulo, Bra
 
 ## Simple Visualizations
 ### Best Aim
-![](https://github.com/kxmii/VLR-Webscraping-Project/blob/main/teamplayeracc.gif)
+![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/hspercent.gif)
 
 ### Average Combat Score
-![](https://github.com/kxmii/VLR-Webscraping-Project/blob/main/selectiveacs.gif)
-![](https://github.com/kxmii/VLR-Webscraping-Project/blob/main/histoacs.gif)
+![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/individualacs.gif)
+![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/histogramacs.gif)
 
 ### Agent Usage
 ![]()
