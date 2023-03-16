@@ -6,7 +6,7 @@ Scraping data from vlr.gg to analyze recent kickoff tournament in Sao Paulo, Bra
 - players.csv and agents.csv: contains data scraped
 - VLR Project.sql: contains SQL queries on the players/teams
 
-## Simple Visualizations
+## Basic Visualizations
 ### Best Aim
 The top 4 players by HS%, and top 4 teams by average HS%.
 ![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/hspercent.gif)
@@ -22,4 +22,3 @@ Plotting a histogram of every player's ACS reveals a somewhat normal distributio
 ![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/mappick.gif)
 
 ![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/agents.gif)
-To be completed
