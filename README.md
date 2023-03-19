@@ -8,16 +8,16 @@ Scraping data from vlr.gg to analyze recent kickoff tournament in Sao Paulo, Bra
 
 ## Basic Visualizations
 
-<h3 align="center"> Maps/Agents </h3>
+### Maps/Agents
 ![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/agents.gif)
 
 ![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/mappick.gif)
 
-<h3 align="center"> Best Aim </h3>
+### Best Aim
 The top 4 players by HS%, and top 4 teams by average HS%.
 ![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/hspercent.gif)
 
-<h3 align="center"> Average Combat Score </h3>
+### Average Combat Score
 Visualizing a select group of players ACS.
 ![](https://github.com/kxmii/VLR-Analysis-Project/blob/main/visualizations/individualacs.gif)
 
